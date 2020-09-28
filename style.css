@@ -10,7 +10,15 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(37, 37, 37);
+    background: rgb(50, 75, 95);
+}
+
+.quick-guide {
+    position: fixed;
+    bottom: 0;
+    font-family: Verdana, sans-serif;
+    color: white;
+    font-size: 8px;
 }
 
 .button-container {
